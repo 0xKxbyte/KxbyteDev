@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 0xkxbyte
+# 👋 Hello, I'm 0xKxbyte
 
 **Software Engineer**
 Backend • Frontend • Full Stack • Cybersecurity
